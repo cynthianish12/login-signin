@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:  #372a46;
+}
+
+.signin{
+    position: absolute;
+    top: 10%;
+    left: 400px;
+    height: 480px;
+    width: 25%;
+    border: 1px solid wheat;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    border-radius: 30px;
+    padding: 50px;
+
+}
+.h2{
+    color: white;
+    padding-bottom: 15px;
+}
+.input{
+    display: block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: orange;
+    color: white;
+    margin: 20px;
+    border-width: 0.2px;
+}
+.input::placeholder{
+    color: white;
+    padding: 10px;
+    font-size: larger;
+}
+.check{
+    width: 50px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.btn1{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: rgb(236, 47, 47);
+    color: white;
+    font-size: larger;
+    margin: 25px;
+}
+.a{
+    color: rgb(236, 47, 47);
+}
+.lab{
+    color: white;
+    font-size: 20px;
+}
+.there{
+    color: orangered;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
